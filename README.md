@@ -1,0 +1,2 @@
+# dubem-speech_recognition
+THIS IS A PYTHON SCRIPT THAT CONVERTS A AUDIO SPEECH TO TEXT
